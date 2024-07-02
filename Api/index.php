@@ -108,7 +108,7 @@
     <!--====== APPIE FEATURES 2 PART ENDS ======-->
 
 
-<section class="appie-services-2-area pb-100 mt-5" id="service">
+    <section class="appie-services-2-area pb-100 mt-5" id="service">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6 col-md-8">
@@ -230,7 +230,7 @@
     </section>
     
     <!--====== APPIE SPONSER PART ENDS ======-->
-<section class="contact-section">
+   <section class="contact-section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 mb-5">
